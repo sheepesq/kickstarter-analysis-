@@ -9,14 +9,14 @@
 ---
 
 **3.Results: Answer the following questions in complete and coherent sentences.**
-	-	What are two conclusions you can draw about the Theater Outcomes by Launch Date?
-		 - Best time to launch is May/June and a play is more likely to succeed	 than fail.
-	•	What can you conclude about the Outcomes based on Goals?
-		  The lower the play’s goal the better chance of success, and plays do not get canceled they just succeed or fail. 
-	•	What are some limitations of this dataset?
-		  Hard to tell what made a kickstarter reach its goal vs fail.
-	•	What are some other possible tables and/or graphs that we could create?
-		  We can make a chart showing the % of success of Kickstarters based on donation size. Chart showing the success of staff picks. 
+   -**What are two conclusions you can draw about the Theater Outcomes by Launch Date?**
+     -Best time to launch is May/June and a play is more likely to succeed	 than fail.
+-**What can you conclude about the Outcomes based on Goals?**
+   -The lower the play’s goal the better chance of success, and plays do not get canceled they just succeed or fail. 
+-**What are some limitations of this dataset?**
+  -Hard to tell what made a kickstarter reach its goal vs fail.
+-**What are some other possible tables and/or graphs that we could create?**
+  -We can make a chart showing the % of success of Kickstarters based on donation size. Chart showing the success of staff picks. 
 
 
 
